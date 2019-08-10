@@ -4,13 +4,11 @@ date: '2019-08-10'
 ---
 Hello, my name is Ari Ramdial.
 
-I am a serial entrpreneur currently on sabbatical. I spend my days consulting for large asset managers like [PSP Investments](https://www.investpsp.com/en/). Previously, I founded the digital asset custodian [KNØX](https://kn0x.io/) for which I raised an $8.3M seed round (the largest in Canada at the time). I live in Toronto.
+I am a serial entrpreneur currently on sabbatical. I spend my days consulting for large asset managers like [PSP Investments](https://www.investpsp.com/en/). Previously, I founded the digital asset custodian [KNØX](https://kn0x.io/) for which I raised an $8.3M seed round from Fidelity Investments, iNovia Capital, and Initialized Capital. I live in Toronto.
 
-I am interested in risk, mechanism design, and functional programming.
+I am interested in distributed systems, risk, algorithmic game theory, and functional programming.
 
-I love open source, and I contribute from [my Github](https://github.com/wangsongiam/) as a hobby.
-
-I am a [top 5% fastest](https://www.keyhero.com/profile/user67157/) typist in the world.
+I am dog-dad to Mika and Koa.
 
 ## About ariramdial.com
 
