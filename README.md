@@ -2,6 +2,8 @@
   <a rel="noopener noreferrer" href="https://ariramdial.com" target="__blank">ariramdial.com</a>
 </h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17de7e2f-5b66-4ff1-a037-a76b2d9d6a2c/deploy-status)](https://app.netlify.com/sites/ariramdial/deploys)
+
 Source code for the website about Song Wang at <span><a rel="noopener noreferrer" href="https://songwang.io" target="__blank">songwang.io</a></span>
 
 ### Tech Stack
