@@ -2,7 +2,7 @@ import changeColor from 'utils/changeColor';
 
 
 const h = 'hsla(0, 0%, 0%, 1)';
-const background = 'hsla(60, 67%, 99%)';
+const background = 'hsla(0, 100%, 99%)';
 const linkHover = 'hsla(192, 100%, 50%, 1)';
 
 

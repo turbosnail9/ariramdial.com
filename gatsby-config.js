@@ -1,16 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: 'Song Wang',
-    author: 'Song Wang',
-    siteName: 'songwang.io',
+    title: 'Ari Ramdial',
+    author: 'Ari Ramdial',
+    siteName: 'ariramdial.com',
     bio:
-      'A software engineer who makes simple and stupid codes',
-    siteUrl: 'https://songwang.io/',
-    github: 'https://github.com/wangsongiam',
-    twitter: 'https://twitter.com/supsupsong',
-    linkedin: 'https://www.linkedin.com/in/song-wang-279a2b126/',
-    homeCity: 'Beijing',
-    description: 'website about Song Wang',
+      'A 🐕-loving, 🧗, serial entrepreneur',
+    siteUrl: 'https://ariramdial.com/',
+    github: 'https://github.com/turbosnail9',
+    twitter: 'https://twitter.com/ariramdial',
+    linkedin: 'https://www.linkedin.com/in/ariramdial/',
+    homeCity: 'San Fernando',
+    description: 'website about Ari Ramdial',
   },
   plugins: [
     {
@@ -73,17 +73,17 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: 'UA-101324222-1'
+        trackingId: 'UA-53186231-1'
       }
     },
     'gatsby-plugin-feed',
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Song Wang',
-        short_name: 'SWang',
+        name: 'Ari Ramdial',
+        short_name: 'ARamdial',
         start_url: '/',
-        background_color: '#ffffff',
+        background_color: '#faf7b9',
         theme_color: '#663399',
         display: 'minimal-ui',
         icon: 'content/assets/logo.png',

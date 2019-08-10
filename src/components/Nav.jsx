@@ -5,7 +5,7 @@ import NavContainer from 'theme/containers/NavContainer';
 
 
 const PATHS = ['/', '/search/', '/about/'];
-const getLinkName = locationSlug => (locationSlug.length === 1 ? 'Song' : locationSlug.split('/')[1]);
+const getLinkName = locationSlug => (locationSlug.length === 1 ? 'Ari' : locationSlug.split('/')[1]);
 
 
 const Li = ({ location }) => (
