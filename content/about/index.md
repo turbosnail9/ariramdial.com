@@ -1,6 +1,6 @@
 ---
 title: About
-date: '2019-08-08'
+date: '2019-08-10'
 ---
 Hello, my name is Ari Ramdial.
 
