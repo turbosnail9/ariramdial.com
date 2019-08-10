@@ -1,5 +1,5 @@
 <h1>
-  <a rel="noopener noreferrer" href="https://songwang.io" target="__blank">songwang.io</a>
+  <a rel="noopener noreferrer" href="https://ariramdial.com" target="__blank">ariramdial.com</a>
 </h1>
 
 Source code for the website about Song Wang at <span><a rel="noopener noreferrer" href="https://songwang.io" target="__blank">songwang.io</a></span>
