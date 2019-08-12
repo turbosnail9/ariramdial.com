@@ -2,7 +2,7 @@ import React from 'react';
 import CommentContainer from 'theme/containers/CommentContainer';
 
 
-const URL = 'https://github.com/wangsongiam/songwang.io/issues/new';
+const URL = 'https://github.com/turbosnail9/ariramdial.com/issues/new';
 
 export default () => (
   <CommentContainer>

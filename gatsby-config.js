@@ -4,7 +4,7 @@ module.exports = {
     author: 'Ari Ramdial',
     siteName: 'ariramdial.com',
     bio:
-      'A 🐕-loving, 🧗, serial entrepreneur',
+      'A 🐕-loving,🧗-climbing, 📚-reading entrepreneur',
     siteUrl: 'https://ariramdial.com/',
     github: 'https://github.com/turbosnail9',
     twitter: 'https://twitter.com/ariramdial',
